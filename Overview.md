@@ -7,6 +7,10 @@
 - It mitigates the difficulty of complex tasks i.e., abstracts the hardware details using system calls 
 - Some of the popular Operating Systems are Windows , MacOS , Linux , etc . , 
 
+### Types of Operating Systems
+- **Batch Operating System: Processes similar together as a batch to save time
+- Example: Payroll processing systems where tasks are scheduled to run at night without 
+
 ![os](/Diagram/os.png)
 
 # Key Concepts
