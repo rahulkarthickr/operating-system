@@ -9,7 +9,9 @@
 
 ### Types of Operating Systems
 - **Batch Operating System:** Processes similar together as a batch to save time
-- Example: Payroll processing systems where tasks are scheduled to run at night without 
+- Example: Payroll processing systems where tasks are scheduled to run at night without user intervention
+- **Time-Sharing Operating System**: Allows multiple users to use a computer simultaneously by quickly switching between them
+- Example: University servers where multiple students can access resources simultaneously
 
 ![os](/Diagram/os.png)
 
