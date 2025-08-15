@@ -12,6 +12,10 @@
 - Example: Payroll processing systems where tasks are scheduled to run at night without user intervention
 - **Time-Sharing Operating System**: Allows multiple users to use a computer simultaneously by quickly switching between them
 - Example: University servers where multiple students can access resources simultaneously
+- **Distributed Operating System**: Spreads the load over multiple systems, making it appear as a single system to the user
+- Example: Google Cloud Services which distribute computations across various servers
+- **Real-Time Operating System**: Guarantees responses to inputs within a specific time, crucial for embedded systems
+- Example: Anti-locking braking systems (ABS) in cars that must respond instantly to prevent accidents
 
 ![os](/Diagram/os.png)
 
